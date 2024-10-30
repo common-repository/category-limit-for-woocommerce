@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woocommerce Category Limit\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-04-13 13:07+0000\n"
+"PO-Revision-Date: 2020-04-13 13:18+0000\n"
+"Last-Translator: admin <tooguru@yahoo.com>\n"
+"Language-Team: Spanish (Spain)\n"
+"Language: es_ES\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#: woocommerce_limit_categories.php:52
+#, php-format
+msgid "You can’t choose from more than %s %s in your cart"
+msgstr "No puede elegir entre más de %s %s en el carrito"
+
+#: inc/calss-settings.php:13
+msgid "Category Limit"
+msgstr ""
+
+#: inc/calss-settings.php:44
+msgid "Map Settings"
+msgstr ""
+
+#: inc/calss-settings.php:89
+msgid "Google Map Settings"
+msgstr ""
+
+#: inc/calss-settings.php:95
+msgid "Categories Allowed"
+msgstr ""
+
+#: inc/calss-settings.php:97
+msgid "How many parent categories allowed"
+msgstr ""
+
+#: inc/calss-settings.php:101
+msgid "Exclude Categories"
+msgstr ""
+
+#: inc/calss-settings.php:103
+msgid "Exclude categories and child sub categories, slugs comma seprated"
+msgstr ""
+
+#: inc/calss-settings.php:107
+msgid "Category Label"
+msgstr ""
+
+#: inc/calss-settings.php:109
+msgid "Label for category in limit error message, restaurant, shop..."
+msgstr ""
+
+#. Name of the plugin
+msgid "Woocommerce Category Limit"
+msgstr ""
+
+#. Description of the plugin
+msgid "Toolkit for Limit the Category Quantity."
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wpexperto.es"
+msgstr ""
+
+#. Author of the plugin
+msgid "WPExperto"
+msgstr ""
